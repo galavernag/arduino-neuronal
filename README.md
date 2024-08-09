@@ -23,6 +23,11 @@ O projeto "Arduino Neuronal" tem como objetivo demonstrar a comunicação de imp
 - 1x Interruptor de um canal
 - Fios Jumpers
 
+## Visualizar projeto no simulador
+
+Caso queira visualizar o projeto no Tinkercad, segue o link:
+[Acessar Tinkercad](https://www.tinkercad.com/things/9qtsXNT93dN-arduino-neuronal?sharecode=_4JsrgmTJUituVyVy5uaeC8ygpCtkTnGVEsjPGKKmFs)
+
 ## Esquema de Ligação
 
 A ligação do projeto na placa de prototipação segue a seguinte ordem:
