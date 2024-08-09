@@ -27,6 +27,8 @@ O projeto "Arduino Neuronal" tem como objetivo demonstrar a comunicação de imp
 
 A ligação do projeto na placa de prototipação segue a seguinte ordem:
 
+<img src=".github/esquema.png"></img>
+
 ### Registrador de deslocamento de 8 bits (Shift Register)
 
 #### Pinos de controle
